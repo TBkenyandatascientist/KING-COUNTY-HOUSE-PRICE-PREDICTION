@@ -48,7 +48,7 @@ For real estate investors, if they are looking to make money in the real estate 
 
 Secondly, real estate investors have to invest well in the bathrooms with the optimal number of 2.5 to make a lot of returns. This is the optimal number of bedrooms to sell more houses in the area.
 
-Lastly, investors should invest in larger sqft_living space, that is, a higher square footage of the home to ensure that they sell the homes for higher prices. The higher the square foot space, the higher the prices of the homes.
+Lastly, although model shows the higher the sqft_living space, that is, a higher square footage of the home, the higher the prices. Data from the count of houses across the number of bathrooms and grade show that the King County population buys more averagely priced homes than highly priced homes. Real estate investors should therefore price their homes at average prices.
 ## Run Locally
 
 Clone the project
